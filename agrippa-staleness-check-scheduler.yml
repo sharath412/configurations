@@ -1,5 +1,5 @@
 staleness:
   check:
     client:
-      list:  '[{ "agrippaUrl": "https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&passkey=caVhS9P3Brby9oJ0t8wiLcxxH0hqca4fIhr42sGJ9x9lU&sort=submissiontime:desc&filter=ModerationStatus:APPROVED",
+      list:  '[{ "agrippaUrl": "http://agrippa-data-candidate.prod.us-east-1.nexus.bazaarvoice.com/data/reviews.json?apiversion=5.4&passkey=caVhS9P3Brby9oJ0t8wiLcxxH0hqca4fIhr42sGJ9x9lU&sort=submissiontime:desc&filter=ModerationStatus:APPROVED",
                                            "clientName": "BestBuy"}]'
